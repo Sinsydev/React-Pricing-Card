@@ -14,9 +14,4 @@ A responsive React app that displays pricing plans using modern UI and smooth an
 - [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-## 📸 Screenshot
-
-*(Add a screenshot if you'd like – just upload the image and use Markdown to embed it)*
-
-```md
-![Screenshot](./screenshot.png)
+ 
